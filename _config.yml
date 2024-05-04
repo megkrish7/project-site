@@ -1,6 +1,6 @@
 # Site settings
-title: Thomas Zühlke
-description: 'Business Card Page'
+title: Meghashyam Krishnasamy
+description: 'Personal Website'
 url: 'https://www.zuehlke.cloud'
 baseurl: ''
 profilepic: '/images/tzuehlke.jpg'
@@ -9,7 +9,7 @@ google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
 
 author:
-  name: 'Thomas Zühlke'
+  name: 'Meghashyam Krishnasamy'
   email: thomas@zuehlke.cloud
   mastodon: tzuehlke@mstdn.social
   twitter_username: thomzuehlke
