@@ -10,13 +10,13 @@ font_awesome: 'XXXXXXXXXX.js'
 
 author:
   name: 'Meghashyam Krishnasamy'
-  email: thomas@zuehlke.cloud
-  mastodon: tzuehlke@mstdn.social
-  twitter_username: thomzuehlke
+  email: meghashyamkrishnasamy@gmail.com
+  mastodon: 
+  twitter_username:
 #  facebook_username: joshgerdes
-  github_username:  tzuehlke
-  linkedin_username:  thomas-zühlke-889182165
-  meetup_name: Azure-Meetup-Rostock-MV
+  github_username: megkrish7
+  linkedin_username:  meghashyamkrishnasamy
+  meetup_name: 
 
 # Build settings
 destination: _site

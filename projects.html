@@ -1,0 +1,36 @@
+---
+layout: default
+title: Projects
+---
+
+<div class="header">
+    <h1>Projects</h1>
+    <p>
+        Welcome to my Projects page! Here, you'll find a curated showcase of my work, 
+        reflecting my diverse interests and the culmination of my academic and professional 
+        journey. Among these projects, you'll find my capstone, was a consulting project where 
+        my team's client was the Academy of Motion Picture Arts and Sciences! My portfolio spans across various domains, but I am particularly
+        passionate about the intersections of medtech and music. Each project here not only 
+        demonstrates my skills and creativity but also my commitment to exploring and improving 
+        technology in fields that deeply impact our lives. Dive in to discover how I blend technical 
+        expertise with my passions to create solutions that aim to make a meaningful difference.
+    </p>
+</div>
+
+<ul class="timeline">
+  {% for project in site.data.projects %}
+    <li class="timeline-inverted">
+      <div class="timeline-image">
+        <img class="img-me" src="{{ project.img | prepend: site.baseurl }}" alt="">
+      </div>
+      <div class="timeline-panel">
+        <div class="timeline-heading">
+          <h4><a href="https://github.com/{{ project.gh_user }}/{{ project.repo }}" target="_blank">{{ project.name }}</a></h4>
+        </div>
+        <div class="timeline-body">
+          {{ project.desc | markdownify }}
+        </div>
+      </div>
+    </li>
+  {% endfor %}
+</ul>

@@ -115,6 +115,7 @@
 .timeline .timeline-heading h4 {
     margin-top: 0;
     color: inherit;
+    text-align: center;
 }
 
 .timeline .timeline-heading h4.subheading {
@@ -138,10 +139,17 @@
     }
 
     .timeline>li .timeline-panel {
-        float: left;
-        width: 60%;
-        padding: 0 20px 20px 30px;
-        text-align: right;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;  // Adjust this if needed
+        align-items: center;
+        padding: 20px;  // Adjust padding as needed
+    }
+    
+    .timeline .timeline-heading {
+        text-align: center;
+        width: 100%;  // Ensure it takes full width if needed
+        margin-top: 20px;  // Add margin to push down
     }
 
     .timeline>li .timeline-image {

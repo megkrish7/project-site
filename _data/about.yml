@@ -1,20 +1,21 @@
-name: Phi Henry Nguyen
-location: New York City, NY
+# _data/personal_info.yml
+name: Meghashyam Krishnasamy
+location: Pittsburgh, PA
 alma_mater: Carnegie Mellon University
 major: Information Systems
-minors:
-  - Computer Science
-  - Software Engineering
-  - Human Computer Interaction
+minors: Computer Science
+
 bio: |
-  Hi there! I'm Phi Henry Nguyen, a Carnegie Mellon alum with a major in Information Systems and minors in Computer Science, Software Engineering, and Human Computer Interaction. If you'd like to indulge me in my Mary Poppins-inspired window into my personality through a list of some of my favorite things, check out this page!
-  
-  This summer, I will be starting my software engineering career at Schonfeld Strategic Advisors in NYC on the risk application technology team. I've worked previously as an intern at Cisco Meraki and Amazon on the Alexa AI Web Information team. I also have previous experience as a software developer at PatchRx, a teaching assistant for 15-112, a fast-paced introductory CS class at CMU taught in Python, and as a head teaching assistant for 67-272, a core IS class on web application development taught in Ruby on Rails.
+  Hey there! My name is Meghashyam Krishnasamy, a Junior at Carnegie Mellon University, diving into the world of Computer Science. Music is a big part of my life, whether I'm playing the double bass for orchestral pieces or strumming chords on my guitar, it's where I find my rhythm.
 
-  During my time at CMU, I was involved on campus as the Vice President of Events and Booth Chair for CMU's Asian Students Association, a web developer for Lunar Gala, a consultant and webmaster for 180 Degrees Consulting, and a professional development chair of Sigma Phi Epsilon.
+  When I'm not lost in music, you can usually find me on the soccer field. I'm passionate about the game, and you'll often find me kicking around a ball with friends or catching a match. Sports-wise, I'm a huge Steelers fan and proudly support Chelsea as well.
 
-  Feel free to connect with me on LinkedIn or reach out through email!
+  Aside from my love for music and sports, I'm deeply involved in leadership and community service. Serving as President of Sigma Phi Epsilon, I focus on fostering brotherhood and personal growth within our community. I also dedicate my time to Camp Kesem, supporting children through the challenges of a parent's cancer journey.
+
+  My journey to becoming an Eagle Scout has shaped who I am today, teaching me valuable lessons in resilience, integrity, and service. It's something I'm proud of and reflects my commitment to making a positive impact in my community.
+
+  Feel free to connect with me on LinkedIn or shoot me an email. Let's connect!
+
 contact:
   email: hpnguyen@alumni.cmu.edu
   linkedin: phi-henry-nguyen
-
